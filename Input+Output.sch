@@ -1026,7 +1026,7 @@ F 1 "Screw_Terminal_01x03" V 7950 5750 50  0000 R CNN
 F 2 "h8-Connectors:Wuerth-691102710003" H 7800 5400 50  0001 C CNN
 F 3 "~" H 7800 5400 50  0001 C CNN
 	1    7800 5400
-	0    -1   -1   0   
+	0    1    -1   0   
 $EndComp
 $Comp
 L power:GND #PWR028
