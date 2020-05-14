@@ -560,29 +560,29 @@ Wire Wire Line
 	5650 3650 5850 3650
 Wire Wire Line
 	5650 3750 5700 3750
-Text GLabel 5850 1450 2    50   Output ~ 0
-In1R
 Text GLabel 5850 1650 2    50   Output ~ 0
+In1R
+Text GLabel 5850 1450 2    50   Output ~ 0
 In1L
-Text GLabel 5850 1850 2    50   Output ~ 0
-In2R
 Text GLabel 5850 2050 2    50   Output ~ 0
+In2R
+Text GLabel 5850 1850 2    50   Output ~ 0
 In2L
-Text GLabel 5850 2250 2    50   Output ~ 0
-In3R
 Text GLabel 5850 2450 2    50   Output ~ 0
+In3R
+Text GLabel 5850 2250 2    50   Output ~ 0
 In3L
-Text GLabel 5850 2650 2    50   Output ~ 0
-In4R
 Text GLabel 5850 2850 2    50   Output ~ 0
+In4R
+Text GLabel 5850 2650 2    50   Output ~ 0
 In4L
-Text GLabel 5850 3050 2    50   Output ~ 0
-In5R
 Text GLabel 5850 3250 2    50   Output ~ 0
+In5R
+Text GLabel 5850 3050 2    50   Output ~ 0
 In5L
-Text GLabel 5850 3450 2    50   Output ~ 0
-In6R
 Text GLabel 5850 3650 2    50   Output ~ 0
+In6R
+Text GLabel 5850 3450 2    50   Output ~ 0
 In6L
 Wire Wire Line
 	5700 1550 5700 1750
@@ -689,29 +689,29 @@ Wire Wire Line
 	7150 3650 6950 3650
 Wire Wire Line
 	7150 3750 7100 3750
-Text GLabel 6950 1450 0    50   Input ~ 0
-In1R
 Text GLabel 6950 1650 0    50   Input ~ 0
+In1R
+Text GLabel 6950 1450 0    50   Input ~ 0
 In1L
-Text GLabel 6950 1850 0    50   Input ~ 0
-In2R
 Text GLabel 6950 2050 0    50   Input ~ 0
+In2R
+Text GLabel 6950 1850 0    50   Input ~ 0
 In2L
-Text GLabel 6950 2250 0    50   Input ~ 0
-In3R
 Text GLabel 6950 2450 0    50   Input ~ 0
+In3R
+Text GLabel 6950 2250 0    50   Input ~ 0
 In3L
-Text GLabel 6950 2650 0    50   Input ~ 0
-In4R
 Text GLabel 6950 2850 0    50   Input ~ 0
+In4R
+Text GLabel 6950 2650 0    50   Input ~ 0
 In4L
-Text GLabel 6950 3050 0    50   Input ~ 0
-In5R
 Text GLabel 6950 3250 0    50   Input ~ 0
+In5R
+Text GLabel 6950 3050 0    50   Input ~ 0
 In5L
-Text GLabel 6950 3450 0    50   Input ~ 0
-In6R
 Text GLabel 6950 3650 0    50   Input ~ 0
+In6R
+Text GLabel 6950 3450 0    50   Input ~ 0
 In6L
 Wire Wire Line
 	7100 1550 7100 1750
@@ -818,29 +818,29 @@ Wire Wire Line
 	8850 3650 9050 3650
 Wire Wire Line
 	8850 3750 8900 3750
-Text GLabel 9050 1450 2    50   Output ~ 0
-Out1R
 Text GLabel 9050 1650 2    50   Output ~ 0
+Out1R
+Text GLabel 9050 1450 2    50   Output ~ 0
 Out1L
-Text GLabel 9050 1850 2    50   Output ~ 0
-Out2R
 Text GLabel 9050 2050 2    50   Output ~ 0
+Out2R
+Text GLabel 9050 1850 2    50   Output ~ 0
 Out2L
-Text GLabel 9050 2250 2    50   Output ~ 0
-Out3R
 Text GLabel 9050 2450 2    50   Output ~ 0
+Out3R
+Text GLabel 9050 2250 2    50   Output ~ 0
 Out3L
-Text GLabel 9050 2650 2    50   Output ~ 0
-Out4R
 Text GLabel 9050 2850 2    50   Output ~ 0
+Out4R
+Text GLabel 9050 2650 2    50   Output ~ 0
 Out4L
-Text GLabel 9050 3050 2    50   Output ~ 0
-Out5R
 Text GLabel 9050 3250 2    50   Output ~ 0
+Out5R
+Text GLabel 9050 3050 2    50   Output ~ 0
 Out5L
-Text GLabel 9050 3450 2    50   Output ~ 0
-Out6R
 Text GLabel 9050 3650 2    50   Output ~ 0
+Out6R
+Text GLabel 9050 3450 2    50   Output ~ 0
 Out6L
 Wire Wire Line
 	8900 1550 8900 1750
@@ -947,29 +947,29 @@ Wire Wire Line
 	10350 3650 10150 3650
 Wire Wire Line
 	10350 3750 10300 3750
-Text GLabel 10150 1450 0    50   Input ~ 0
-Out1R
 Text GLabel 10150 1650 0    50   Input ~ 0
+Out1R
+Text GLabel 10150 1450 0    50   Input ~ 0
 Out1L
-Text GLabel 10150 1850 0    50   Input ~ 0
-Out2R
 Text GLabel 10150 2050 0    50   Input ~ 0
+Out2R
+Text GLabel 10150 1850 0    50   Input ~ 0
 Out2L
-Text GLabel 10150 2250 0    50   Input ~ 0
-Out3R
 Text GLabel 10150 2450 0    50   Input ~ 0
+Out3R
+Text GLabel 10150 2250 0    50   Input ~ 0
 Out3L
-Text GLabel 10150 2650 0    50   Input ~ 0
-Out4R
 Text GLabel 10150 2850 0    50   Input ~ 0
+Out4R
+Text GLabel 10150 2650 0    50   Input ~ 0
 Out4L
-Text GLabel 10150 3050 0    50   Input ~ 0
-Out5R
 Text GLabel 10150 3250 0    50   Input ~ 0
+Out5R
+Text GLabel 10150 3050 0    50   Input ~ 0
 Out5L
-Text GLabel 10150 3450 0    50   Input ~ 0
-Out6R
 Text GLabel 10150 3650 0    50   Input ~ 0
+Out6R
+Text GLabel 10150 3450 0    50   Input ~ 0
 Out6L
 Wire Wire Line
 	10300 1550 10300 1750
@@ -1017,56 +1017,6 @@ F 3 "" H 10300 3850 50  0001 C CNN
 	1    10300 3850
 	1    0    0    -1  
 $EndComp
-$Comp
-L Connector:Screw_Terminal_01x03 J15
-U 1 1 5ED7C2E8
-P 7800 5400
-F 0 "J15" V 8050 5750 50  0000 R CNN
-F 1 "Screw_Terminal_01x03" V 7950 5750 50  0000 R CNN
-F 2 "h8-Connectors:Wuerth-691102710003" H 7800 5400 50  0001 C CNN
-F 3 "~" H 7800 5400 50  0001 C CNN
-	1    7800 5400
-	0    1    -1   0   
-$EndComp
-$Comp
-L power:GND #PWR028
-U 1 1 5ED7CFA9
-P 7800 5950
-F 0 "#PWR028" H 7800 5700 50  0001 C CNN
-F 1 "GND" H 7805 5777 50  0000 C CNN
-F 2 "" H 7800 5950 50  0001 C CNN
-F 3 "" H 7800 5950 50  0001 C CNN
-	1    7800 5950
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+9V #PWR027
-U 1 1 5ED7D07D
-P 7050 5400
-F 0 "#PWR027" H 7050 5250 50  0001 C CNN
-F 1 "+9V" H 7065 5573 50  0000 C CNN
-F 2 "" H 7050 5400 50  0001 C CNN
-F 3 "" H 7050 5400 50  0001 C CNN
-	1    7050 5400
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:-9V #PWR029
-U 1 1 5ED7D141
-P 8600 5400
-F 0 "#PWR029" H 8600 5275 50  0001 C CNN
-F 1 "-9V" H 8615 5573 50  0000 C CNN
-F 2 "" H 8600 5400 50  0001 C CNN
-F 3 "" H 8600 5400 50  0001 C CNN
-	1    8600 5400
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	7900 5600 7900 5650
-Wire Wire Line
-	7700 5600 7700 5650
-Wire Wire Line
-	7800 5600 7800 5800
 Text Notes 850  950  0    197  ~ 39
 Audio In
 Text Notes 3050 950  0    197  ~ 39
@@ -1075,8 +1025,6 @@ Text Notes 5400 950  0    197  ~ 39
 FFC Audio In
 Text Notes 8500 950  0    197  ~ 39
 FFC Audio Out
-Text Notes 5900 4800 0    197  ~ 39
-Symmetric Power Supply
 Wire Notes Line width 39
 	11150 550  11150 6450
 Wire Notes Line width 39
@@ -1098,56 +1046,6 @@ Wire Notes Line width 39
 Wire Wire Line
 	3850 7450 3850 7200
 Connection ~ 3850 7200
-$Comp
-L power:PWR_FLAG #FLG0101
-U 1 1 5EF10191
-P 7050 5500
-F 0 "#FLG0101" H 7050 5575 50  0001 C CNN
-F 1 "PWR_FLAG" V 7050 5628 50  0000 L CNN
-F 2 "" H 7050 5500 50  0001 C CNN
-F 3 "~" H 7050 5500 50  0001 C CNN
-	1    7050 5500
-	0    -1   -1   0   
-$EndComp
-$Comp
-L power:PWR_FLAG #FLG0102
-U 1 1 5EF101E8
-P 8600 5500
-F 0 "#FLG0102" H 8600 5575 50  0001 C CNN
-F 1 "PWR_FLAG" V 8600 5628 50  0000 L CNN
-F 2 "" H 8600 5500 50  0001 C CNN
-F 3 "~" H 8600 5500 50  0001 C CNN
-	1    8600 5500
-	0    1    1    0   
-$EndComp
-$Comp
-L power:PWR_FLAG #FLG0103
-U 1 1 5EF1023F
-P 7800 5800
-F 0 "#FLG0103" H 7800 5875 50  0001 C CNN
-F 1 "PWR_FLAG" V 7800 5928 50  0000 L CNN
-F 2 "" H 7800 5800 50  0001 C CNN
-F 3 "~" H 7800 5800 50  0001 C CNN
-	1    7800 5800
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	7050 5650 7050 5500
-Wire Wire Line
-	7050 5650 7700 5650
-Wire Wire Line
-	7050 5500 7050 5400
-Wire Wire Line
-	8600 5650 8600 5500
-Wire Wire Line
-	7900 5650 8600 5650
-Connection ~ 7050 5500
-Connection ~ 7800 5800
-Wire Wire Line
-	7800 5800 7800 5950
-Connection ~ 8600 5500
-Wire Wire Line
-	8600 5400 8600 5500
 $Comp
 L Device:R R1
 U 1 1 5EC1CE9F
