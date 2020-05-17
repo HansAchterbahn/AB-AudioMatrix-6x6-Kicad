@@ -883,9 +883,9 @@ F 3 "" H 3600 6950 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 Wire Wire Line
-	3100 6400 3150 6400
+	3100 6300 3250 6300
 Wire Wire Line
-	3100 6200 3150 6200
+	3100 6200 3250 6200
 Text Notes 1750 4950 0    197  ~ 39
 Symmetric Power Supply
 $Comp
@@ -928,7 +928,7 @@ F 3 "~" H 5500 6400 50  0001 C CNN
 	0    1    -1   0   
 $EndComp
 Wire Wire Line
-	3150 6400 3150 6900
+	3250 6300 3250 6900
 $Comp
 L Amplifier_Operational:TL072 U7
 U 1 1 5EC6097B
@@ -1000,30 +1000,26 @@ Wire Wire Line
 	3600 6900 3600 6800
 Connection ~ 3600 6900
 Wire Wire Line
-	3600 6900 3150 6900
+	3600 6900 3250 6900
 Wire Wire Line
-	3600 5700 3150 5700
+	3600 5700 3250 5700
 Wire Wire Line
-	3150 5700 3150 6200
+	3250 5700 3250 6200
 $Comp
 L power:GND #PWR?
 U 1 1 5ED8AD6B
-P 3300 6400
+P 3100 6700
 AR Path="/5EC982D9/5ED8AD6B" Ref="#PWR?"  Part="1" 
 AR Path="/5EC982F4/5ED8AD6B" Ref="#PWR027"  Part="1" 
-F 0 "#PWR027" H 3300 6150 50  0001 C CNN
-F 1 "GND" H 3305 6227 50  0000 C CNN
-F 2 "" H 3300 6400 50  0001 C CNN
-F 3 "" H 3300 6400 50  0001 C CNN
-	1    3300 6400
+F 0 "#PWR027" H 3100 6450 50  0001 C CNN
+F 1 "GND" H 3105 6527 50  0000 C CNN
+F 2 "" H 3100 6700 50  0001 C CNN
+F 3 "" H 3100 6700 50  0001 C CNN
+	1    3100 6700
 	-1   0    0    -1  
 $EndComp
-Wire Wire Line
-	3100 6300 3300 6300
-Wire Wire Line
-	3300 6400 3300 6300
 Text Notes 700  7550 0    47   ~ 0
-Symmetrical power supply\n\n- R25, R26 and U7 do not need to be fitted\n- Open jumper JP1 \n- Screw on J15:\n  -  pin 1: V-\n  - pin 2: GND\n  - pin 3: V+ 
+Symmetrical power supply\n\n- R25, R26 and U7 do not need to be fitted\n- Open jumper JP1 \n- Screw on J15:\n  -  pin 1: GND\n  - pin 2: V-\n  - pin 3: V+ 
 $Comp
 L Jumper:SolderJumper_2_Open JP1
 U 1 1 5EE502FF
@@ -1038,7 +1034,7 @@ $EndComp
 Wire Wire Line
 	5300 6400 5500 6400
 Text Notes 700  6750 0    47   ~ 0
-Asymmetrical power supply\n\n- Assemble R25, R26 and U7\n- close jumper JP1\n- Screw on J15: \n  -  pin 1: V-\n  - pin 2: not connected\n  - pin 3: V+ 
+Asymmetrical power supply\n\n- Assemble R25, R26 and U7\n- close jumper JP1\n- Screw on J15: \n  - pin 1: not connected\n  - pin 2: V-\n  - pin 3: V+ 
 Text Notes 700  5950 0    47   ~ 0
 Power supply typ\n\n- As power supply you can use \n   both a common asymmetrical \n   or even a better symmetrical \n   power supply. \n- Depending on your OPAs you \n   can choose a power supply \n   between +9V to +30V asymmetric \n   or ±4.5V to ±15V symmetric.
 Wire Notes Line
@@ -1074,4 +1070,6 @@ Wire Wire Line
 	8550 5400 9000 5400
 Wire Wire Line
 	8550 6000 9000 6000
+Wire Wire Line
+	3100 6400 3100 6700
 $EndSCHEMATC

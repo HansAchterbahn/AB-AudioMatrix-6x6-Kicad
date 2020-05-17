@@ -10,7 +10,7 @@ Date "2020-05-05"
 Rev "v3.4"
 Comp "AudioBürokrat"
 Comment1 "Created by HansAchterbahn"
-Comment2 "Licence: CC BY 2.0"
+Comment2 "Licence: CC BY 4.0"
 Comment3 ""
 Comment4 ""
 $EndDescr
