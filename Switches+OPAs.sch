@@ -6,13 +6,13 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 3
 Title "AB AudioMatrix 6x6"
-Date "2020-05-05"
+Date "2020-05-24"
 Rev "v3.4"
 Comp "AudioBürokrat"
-Comment1 "Created by HansAchterbahn"
-Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment1 ""
+Comment2 "Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)"
+Comment3 "https://github.com/HansAchterbahn/AB-AudioMatrix-6x6"
+Comment4 "Created by HansAchterbahn"
 $EndDescr
 $Comp
 L Switch:SW_Rotary2x6 SW6
@@ -21,7 +21,13 @@ P 10250 2300
 F 0 "SW6" H 10250 3150 50  0000 L CNN
 F 1 "SW_Rotary2x6" H 10250 3050 50  0000 L CNN
 F 2 "h8-Switches:CK102X06" H 10150 2900 50  0001 C CNN
-F 3 "http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf" H 10150 2900 50  0001 C CNN
+F 3 "https://lorlinelectronics.co.uk/wp-content/uploads/2020/03/CK_Datasheet_Mar_2020.pdf" H 10150 2900 50  0001 C CNN
+F 4 "Lorlin" H 0   0   50  0001 C CNN "MF"
+F 5 "CK1050" H 0   0   50  0001 C CNN "MFN"
+F 6 "665-196" H 0   0   50  0001 C CNN "RS-Online"
+F 7 "—" H 0   0   50  0001 C CNN "Digi-Key"
+F 8 "https://lorlinelectronics.co.uk/product/ck" H 0   0   50  0001 C CNN "Infopage"
+F 9 "—" H 0   0   50  0001 C CNN "Mouser"
 	1    10250 2300
 	0    -1   -1   0   
 $EndComp
@@ -32,7 +38,13 @@ P 8550 2300
 F 0 "SW5" H 8550 3150 50  0000 L CNN
 F 1 "SW_Rotary2x6" H 8550 3050 50  0000 L CNN
 F 2 "h8-Switches:CK102X06" H 8450 2900 50  0001 C CNN
-F 3 "http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf" H 8450 2900 50  0001 C CNN
+F 3 "https://lorlinelectronics.co.uk/wp-content/uploads/2020/03/CK_Datasheet_Mar_2020.pdf" H 8450 2900 50  0001 C CNN
+F 4 "Lorlin" H 0   0   50  0001 C CNN "MF"
+F 5 "CK1050" H 0   0   50  0001 C CNN "MFN"
+F 6 "665-196" H 0   0   50  0001 C CNN "RS-Online"
+F 7 "—" H 0   0   50  0001 C CNN "Digi-Key"
+F 8 "https://lorlinelectronics.co.uk/product/ck" H 0   0   50  0001 C CNN "Infopage"
+F 9 "—" H 0   0   50  0001 C CNN "Mouser"
 	1    8550 2300
 	0    -1   -1   0   
 $EndComp
@@ -43,7 +55,13 @@ P 6850 2300
 F 0 "SW4" H 6850 3150 50  0000 L CNN
 F 1 "SW_Rotary2x6" H 6850 3050 50  0000 L CNN
 F 2 "h8-Switches:CK102X06" H 6750 2900 50  0001 C CNN
-F 3 "http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf" H 6750 2900 50  0001 C CNN
+F 3 "https://lorlinelectronics.co.uk/wp-content/uploads/2020/03/CK_Datasheet_Mar_2020.pdf" H 6750 2900 50  0001 C CNN
+F 4 "Lorlin" H 0   0   50  0001 C CNN "MF"
+F 5 "CK1050" H 0   0   50  0001 C CNN "MFN"
+F 6 "665-196" H 0   0   50  0001 C CNN "RS-Online"
+F 7 "—" H 0   0   50  0001 C CNN "Digi-Key"
+F 8 "https://lorlinelectronics.co.uk/product/ck" H 0   0   50  0001 C CNN "Infopage"
+F 9 "—" H 0   0   50  0001 C CNN "Mouser"
 	1    6850 2300
 	0    -1   -1   0   
 $EndComp
@@ -54,7 +72,13 @@ P 5150 2300
 F 0 "SW3" H 5150 3150 50  0000 L CNN
 F 1 "SW_Rotary2x6" H 5150 3050 50  0000 L CNN
 F 2 "h8-Switches:CK102X06" H 5050 2900 50  0001 C CNN
-F 3 "http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf" H 5050 2900 50  0001 C CNN
+F 3 "https://lorlinelectronics.co.uk/wp-content/uploads/2020/03/CK_Datasheet_Mar_2020.pdf" H 5050 2900 50  0001 C CNN
+F 4 "Lorlin" H 0   0   50  0001 C CNN "MF"
+F 5 "CK1050" H 0   0   50  0001 C CNN "MFN"
+F 6 "665-196" H 0   0   50  0001 C CNN "RS-Online"
+F 7 "—" H 0   0   50  0001 C CNN "Digi-Key"
+F 8 "https://lorlinelectronics.co.uk/product/ck" H 0   0   50  0001 C CNN "Infopage"
+F 9 "—" H 0   0   50  0001 C CNN "Mouser"
 	1    5150 2300
 	0    -1   -1   0   
 $EndComp
@@ -65,7 +89,13 @@ P 3450 2300
 F 0 "SW2" H 3450 3150 50  0000 L CNN
 F 1 "SW_Rotary2x6" H 3450 3050 50  0000 L CNN
 F 2 "h8-Switches:CK102X06" H 3350 2900 50  0001 C CNN
-F 3 "http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf" H 3350 2900 50  0001 C CNN
+F 3 "https://lorlinelectronics.co.uk/wp-content/uploads/2020/03/CK_Datasheet_Mar_2020.pdf" H 3350 2900 50  0001 C CNN
+F 4 "Lorlin" H 0   0   50  0001 C CNN "MF"
+F 5 "CK1050" H 0   0   50  0001 C CNN "MFN"
+F 6 "665-196" H 0   0   50  0001 C CNN "RS-Online"
+F 7 "—" H 0   0   50  0001 C CNN "Digi-Key"
+F 8 "https://lorlinelectronics.co.uk/product/ck" H 0   0   50  0001 C CNN "Infopage"
+F 9 "—" H 0   0   50  0001 C CNN "Mouser"
 	1    3450 2300
 	0    -1   -1   0   
 $EndComp
@@ -76,7 +106,13 @@ P 1750 2300
 F 0 "SW1" H 1750 3150 50  0000 L CNN
 F 1 "SW_Rotary2x6" H 1750 3050 50  0000 L CNN
 F 2 "h8-Switches:CK102X06" H 1650 2900 50  0001 C CNN
-F 3 "http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf" H 1650 2900 50  0001 C CNN
+F 3 "https://lorlinelectronics.co.uk/wp-content/uploads/2020/03/CK_Datasheet_Mar_2020.pdf" H 1650 2900 50  0001 C CNN
+F 4 "Lorlin" H 0   0   50  0001 C CNN "MF"
+F 5 "CK1050" H 0   0   50  0001 C CNN "MFN"
+F 6 "665-196" H 0   0   50  0001 C CNN "RS-Online"
+F 7 "—" H 0   0   50  0001 C CNN "Digi-Key"
+F 8 "https://lorlinelectronics.co.uk/product/ck" H 0   0   50  0001 C CNN "Infopage"
+F 9 "—" H 0   0   50  0001 C CNN "Mouser"
 	1    1750 2300
 	0    -1   -1   0   
 $EndComp
@@ -87,7 +123,13 @@ P 1350 3450
 F 0 "U1" V 1450 3550 50  0000 L CNN
 F 1 "TL072" V 1550 3550 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 1350 3450 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 1350 3450 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 1350 3450 50  0001 C CNN
+F 4 "296-1282-2-ND" V 1350 3450 50  0001 C CNN "Digi-Key"
+F 5 "197-7552" V 1350 3450 50  0001 C CNN "RS-Online"
+F 6 "595-TL072CDR" V 1350 3450 50  0001 C CNN "Mouser"
+F 7 "TI" V 1350 3450 50  0001 C CNN "MF"
+F 8 "TL072CDR" V 1350 3450 50  0001 C CNN "MFN"
+F 9 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" V 1350 3450 50  0001 C CNN "Infopage"
 	1    1350 3450
 	0    1    1    0   
 $EndComp
@@ -98,7 +140,13 @@ P 3050 3450
 F 0 "U2" V 3150 3550 50  0000 L CNN
 F 1 "TL072" V 3250 3550 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 3050 3450 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3050 3450 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 3050 3450 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	1    3050 3450
 	0    1    1    0   
 $EndComp
@@ -109,7 +157,13 @@ P 2050 3450
 F 0 "U1" V 2150 3550 50  0000 L CNN
 F 1 "TL072" V 2250 3550 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 2050 3450 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 2050 3450 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 2050 3450 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	2    2050 3450
 	0    1    1    0   
 $EndComp
@@ -120,7 +174,13 @@ P 3750 3450
 F 0 "U2" V 3850 3550 50  0000 L CNN
 F 1 "TL072" V 3950 3550 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 3750 3450 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3750 3450 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 3750 3450 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	2    3750 3450
 	0    1    1    0   
 $EndComp
@@ -131,7 +191,13 @@ P 5450 3450
 F 0 "U3" V 5550 3550 50  0000 L CNN
 F 1 "TL072" V 5650 3550 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 5450 3450 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 5450 3450 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 5450 3450 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	2    5450 3450
 	0    1    1    0   
 $EndComp
@@ -142,7 +208,13 @@ P 7150 3450
 F 0 "U4" V 7250 3550 50  0000 L CNN
 F 1 "TL072" V 7350 3550 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 7150 3450 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 7150 3450 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 7150 3450 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	2    7150 3450
 	0    1    1    0   
 $EndComp
@@ -153,7 +225,13 @@ P 8850 3450
 F 0 "U5" V 8950 3550 50  0000 L CNN
 F 1 "TL072" V 9050 3550 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 8850 3450 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 8850 3450 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 8850 3450 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	2    8850 3450
 	0    1    1    0   
 $EndComp
@@ -164,7 +242,13 @@ P 10550 3450
 F 0 "U6" V 10650 3550 50  0000 L CNN
 F 1 "TL072" V 10750 3550 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 10550 3450 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 10550 3450 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 10550 3450 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	2    10550 3450
 	0    1    1    0   
 $EndComp
@@ -175,7 +259,13 @@ P 9850 3450
 F 0 "U6" V 9950 3550 50  0000 L CNN
 F 1 "TL072" V 10050 3550 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 9850 3450 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 9850 3450 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 9850 3450 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	1    9850 3450
 	0    1    1    0   
 $EndComp
@@ -186,7 +276,13 @@ P 8150 3450
 F 0 "U5" V 8250 3550 50  0000 L CNN
 F 1 "TL072" V 8350 3550 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 8150 3450 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 8150 3450 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 8150 3450 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	1    8150 3450
 	0    1    1    0   
 $EndComp
@@ -197,7 +293,13 @@ P 6450 3450
 F 0 "U4" V 6550 3550 50  0000 L CNN
 F 1 "TL072" V 6650 3550 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 6450 3450 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 6450 3450 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 6450 3450 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	1    6450 3450
 	0    1    1    0   
 $EndComp
@@ -208,7 +310,13 @@ P 4750 3450
 F 0 "U3" V 4850 3550 50  0000 L CNN
 F 1 "TL072" V 4950 3550 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 4750 3450 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 4750 3450 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 4750 3450 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	1    4750 3450
 	0    1    1    0   
 $EndComp
@@ -705,7 +813,13 @@ P 7150 5700
 F 0 "U1" H 7050 6150 50  0000 L CNN
 F 1 "TL072" H 7050 6050 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 7150 5700 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 7150 5700 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 7150 5700 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	3    7150 5700
 	1    0    0    -1  
 $EndComp
@@ -716,7 +830,13 @@ P 7750 5700
 F 0 "U2" H 7650 6150 50  0000 L CNN
 F 1 "TL072" H 7650 6050 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 7750 5700 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 7750 5700 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 7750 5700 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	3    7750 5700
 	1    0    0    -1  
 $EndComp
@@ -727,7 +847,13 @@ P 8350 5700
 F 0 "U3" H 8250 6150 50  0000 L CNN
 F 1 "TL072" H 8250 6050 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 8350 5700 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 8350 5700 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 8350 5700 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	3    8350 5700
 	1    0    0    -1  
 $EndComp
@@ -738,7 +864,13 @@ P 9000 5700
 F 0 "U4" H 8900 6150 50  0000 L CNN
 F 1 "TL072" H 8900 6050 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 9000 5700 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 9000 5700 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 9000 5700 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	3    9000 5700
 	1    0    0    -1  
 $EndComp
@@ -749,7 +881,13 @@ P 9600 5700
 F 0 "U5" H 9500 6150 50  0000 L CNN
 F 1 "TL072" H 9500 6050 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 9600 5700 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 9600 5700 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 9600 5700 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	3    9600 5700
 	1    0    0    -1  
 $EndComp
@@ -760,20 +898,15 @@ P 10200 5700
 F 0 "U6" H 10100 6150 50  0000 L CNN
 F 1 "TL072" H 10100 6050 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 10200 5700 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 10200 5700 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 10200 5700 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	3    10200 5700
 	1    0    0    -1  
-$EndComp
-$Comp
-L power:-9V #PWR033
-U 1 1 5ECB7E39
-P 9250 6100
-F 0 "#PWR033" H 9250 5975 50  0001 C CNN
-F 1 "-9V" H 9265 6273 50  0000 C CNN
-F 2 "" H 9250 6100 50  0001 C CNN
-F 3 "" H 9250 6100 50  0001 C CNN
-	1    9250 6100
-	-1   0    0    1   
 $EndComp
 Text Notes 4450 1000 0    197  ~ 39
 Switches and OPAs
@@ -804,7 +937,13 @@ AR Path="/5EC982F4/5EC2061D" Ref="J15"  Part="1"
 F 0 "J15" V 3150 6650 50  0000 R CNN
 F 1 "Screw_Terminal_01x03" V 3050 6650 50  0000 R CNN
 F 2 "h8-Connectors:Wuerth-691102710003" H 2900 6300 50  0001 C CNN
-F 3 "~" H 2900 6300 50  0001 C CNN
+F 3 "https://www.we-online.de/katalog/datasheet/691102710003.pdf" H 2900 6300 50  0001 C CNN
+F 4 "732-2029-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.we-online.de/katalog/de/TBL_5_00_102_6911027100XX/" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Wuerth" H 0   0   50  0001 C CNN "MF"
+F 7 "691102710003" H 0   0   50  0001 C CNN "MFN"
+F 8 "710-691102710003" H 0   0   50  0001 C CNN "Mouser"
+F 9 "691102710003" H 0   0   50  0001 C CNN "RS-Online"
 	1    2900 6300
 	-1   0    0    1   
 $EndComp
@@ -820,32 +959,6 @@ F 2 "" H 5500 6500 50  0001 C CNN
 F 3 "" H 5500 6500 50  0001 C CNN
 	1    5500 6500
 	-1   0    0    -1  
-$EndComp
-$Comp
-L power:+9V #PWR?
-U 1 1 5EC2062A
-P 3600 5650
-AR Path="/5EC982D9/5EC2062A" Ref="#PWR?"  Part="1" 
-AR Path="/5EC982F4/5EC2062A" Ref="#PWR028"  Part="1" 
-F 0 "#PWR028" H 3600 5500 50  0001 C CNN
-F 1 "+9V" H 3615 5823 50  0000 C CNN
-F 2 "" H 3600 5650 50  0001 C CNN
-F 3 "" H 3600 5650 50  0001 C CNN
-	1    3600 5650
-	-1   0    0    -1  
-$EndComp
-$Comp
-L power:-9V #PWR?
-U 1 1 5EC20630
-P 3600 6950
-AR Path="/5EC982D9/5EC20630" Ref="#PWR?"  Part="1" 
-AR Path="/5EC982F4/5EC20630" Ref="#PWR029"  Part="1" 
-F 0 "#PWR029" H 3600 6825 50  0001 C CNN
-F 1 "-9V" H 3615 7123 50  0000 C CNN
-F 2 "" H 3600 6950 50  0001 C CNN
-F 3 "" H 3600 6950 50  0001 C CNN
-	1    3600 6950
-	1    0    0    1   
 $EndComp
 Wire Wire Line
 	3100 6300 3250 6300
@@ -901,7 +1014,13 @@ P 4450 6400
 F 0 "U7" V 4550 6500 50  0000 L CNN
 F 1 "TL072" V 4650 6500 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 4450 6400 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 4450 6400 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 4450 6400 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	1    4450 6400
 	1    0    0    -1  
 $EndComp
@@ -914,7 +1033,13 @@ AR Path="/5EC982F4/5ECA6BDE" Ref="R25"  Part="1"
 F 0 "R25" H 3550 5900 50  0000 R CNN
 F 1 "100k" H 3550 6000 50  0000 R CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 3530 5950 50  0001 C CNN
-F 3 "~" H 3600 5950 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 3600 5950 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    3600 5950
 	-1   0    0    1   
 $EndComp
@@ -927,7 +1052,13 @@ AR Path="/5EC982F4/5ECB0E31" Ref="R26"  Part="1"
 F 0 "R26" H 3550 6600 50  0000 R CNN
 F 1 "100k" H 3550 6700 50  0000 R CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 3530 6650 50  0001 C CNN
-F 3 "~" H 3600 6650 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 3600 6650 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    3600 6650
 	-1   0    0    1   
 $EndComp
@@ -992,7 +1123,13 @@ P 5150 6400
 F 0 "JP1" H 5150 6513 50  0000 C CNN
 F 1 "SolderJumper_2_Open" H 5150 6514 50  0001 C CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" H 5150 6400 50  0001 C CNN
-F 3 "~" H 5150 6400 50  0001 C CNN
+F 3 "—" H 5150 6400 50  0001 C CNN
+F 4 "—" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "—" H 0   0   50  0001 C CNN "MF"
+F 7 "—" H 0   0   50  0001 C CNN "MFN"
+F 8 "—" H 0   0   50  0001 C CNN "Mouser"
+F 9 "—" H 0   0   50  0001 C CNN "RS-Online"
 	1    5150 6400
 	1    0    0    -1  
 $EndComp
@@ -1019,7 +1156,13 @@ P 10800 5700
 F 0 "U7" H 10700 6150 50  0000 L CNN
 F 1 "TL072" H 10700 6050 50  0000 L CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 10800 5700 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 10800 5700 50  0001 C CNN
+F 3 "https://www.ti.com/lit/ds/symlink/tl072.pdf?ts=1590259660482" H 10800 5700 50  0001 C CNN
+F 4 "296-1282-2-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "https://www.ti.com/store/ti/en/p/product/?p=TL072CDR" H 0   0   50  0001 C CNN "Infopage"
+F 6 "TI" H 0   0   50  0001 C CNN "MF"
+F 7 "TL072CDR" H 0   0   50  0001 C CNN "MFN"
+F 8 "595-TL072CDR" H 0   0   50  0001 C CNN "Mouser"
+F 9 "197-7552" H 0   0   50  0001 C CNN "RS-Online"
 	3    10800 5700
 	1    0    0    -1  
 $EndComp
@@ -1036,7 +1179,13 @@ P 7250 5700
 F 0 "C1" H 7365 5746 50  0000 L CNN
 F 1 "100n" H 7365 5655 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7288 5550 50  0001 C CNN
-F 3 "~" H 7250 5700 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/447/UPY-GPHC_X7R_6.3V-to-50V_18-1154002.pdf" H 7250 5700 50  0001 C CNN
+F 4 "311-1779-1-ND " H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Yageo" H 0   0   50  0001 C CNN "MF"
+F 7 "CC0603JRX7R9BB104" H 0   0   50  0001 C CNN "MFN"
+F 8 "603-CC603JRX7R9BB104" H 0   0   50  0001 C CNN "Mouser"
+F 9 "200-6519" H 0   0   50  0001 C CNN "RS-Online"
 	1    7250 5700
 	1    0    0    -1  
 $EndComp
@@ -1047,7 +1196,13 @@ P 7850 5700
 F 0 "C2" H 7965 5746 50  0000 L CNN
 F 1 "100n" H 7965 5655 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 7888 5550 50  0001 C CNN
-F 3 "~" H 7850 5700 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/447/UPY-GPHC_X7R_6.3V-to-50V_18-1154002.pdf" H 7850 5700 50  0001 C CNN
+F 4 "311-1779-1-ND " H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Yageo" H 0   0   50  0001 C CNN "MF"
+F 7 "CC0603JRX7R9BB104" H 0   0   50  0001 C CNN "MFN"
+F 8 "603-CC603JRX7R9BB104" H 0   0   50  0001 C CNN "Mouser"
+F 9 "200-6519" H 0   0   50  0001 C CNN "RS-Online"
 	1    7850 5700
 	1    0    0    -1  
 $EndComp
@@ -1058,7 +1213,13 @@ P 8500 5700
 F 0 "C3" H 8615 5746 50  0000 L CNN
 F 1 "100n" H 8615 5655 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 8538 5550 50  0001 C CNN
-F 3 "~" H 8500 5700 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/447/UPY-GPHC_X7R_6.3V-to-50V_18-1154002.pdf" H 8500 5700 50  0001 C CNN
+F 4 "311-1779-1-ND " H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Yageo" H 0   0   50  0001 C CNN "MF"
+F 7 "CC0603JRX7R9BB104" H 0   0   50  0001 C CNN "MFN"
+F 8 "603-CC603JRX7R9BB104" H 0   0   50  0001 C CNN "Mouser"
+F 9 "200-6519" H 0   0   50  0001 C CNN "RS-Online"
 	1    8500 5700
 	1    0    0    -1  
 $EndComp
@@ -1069,7 +1230,13 @@ P 9100 5700
 F 0 "C4" H 9215 5746 50  0000 L CNN
 F 1 "100n" H 9215 5655 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 9138 5550 50  0001 C CNN
-F 3 "~" H 9100 5700 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/447/UPY-GPHC_X7R_6.3V-to-50V_18-1154002.pdf" H 9100 5700 50  0001 C CNN
+F 4 "311-1779-1-ND " H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Yageo" H 0   0   50  0001 C CNN "MF"
+F 7 "CC0603JRX7R9BB104" H 0   0   50  0001 C CNN "MFN"
+F 8 "603-CC603JRX7R9BB104" H 0   0   50  0001 C CNN "Mouser"
+F 9 "200-6519" H 0   0   50  0001 C CNN "RS-Online"
 	1    9100 5700
 	1    0    0    -1  
 $EndComp
@@ -1080,7 +1247,13 @@ P 9700 5700
 F 0 "C5" H 9815 5746 50  0000 L CNN
 F 1 "100n" H 9815 5655 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 9738 5550 50  0001 C CNN
-F 3 "~" H 9700 5700 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/447/UPY-GPHC_X7R_6.3V-to-50V_18-1154002.pdf" H 9700 5700 50  0001 C CNN
+F 4 "311-1779-1-ND " H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Yageo" H 0   0   50  0001 C CNN "MF"
+F 7 "CC0603JRX7R9BB104" H 0   0   50  0001 C CNN "MFN"
+F 8 "603-CC603JRX7R9BB104" H 0   0   50  0001 C CNN "Mouser"
+F 9 "200-6519" H 0   0   50  0001 C CNN "RS-Online"
 	1    9700 5700
 	1    0    0    -1  
 $EndComp
@@ -1091,7 +1264,13 @@ P 10300 5700
 F 0 "C6" H 10415 5746 50  0000 L CNN
 F 1 "100n" H 10415 5655 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 10338 5550 50  0001 C CNN
-F 3 "~" H 10300 5700 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/447/UPY-GPHC_X7R_6.3V-to-50V_18-1154002.pdf" H 10300 5700 50  0001 C CNN
+F 4 "311-1779-1-ND " H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Yageo" H 0   0   50  0001 C CNN "MF"
+F 7 "CC0603JRX7R9BB104" H 0   0   50  0001 C CNN "MFN"
+F 8 "603-CC603JRX7R9BB104" H 0   0   50  0001 C CNN "Mouser"
+F 9 "200-6519" H 0   0   50  0001 C CNN "RS-Online"
 	1    10300 5700
 	1    0    0    -1  
 $EndComp
@@ -1119,14 +1298,6 @@ Wire Wire Line
 	9500 5400 9700 5400
 Wire Wire Line
 	9500 6000 9700 6000
-Wire Wire Line
-	9250 6100 9250 6000
-Connection ~ 9250 6000
-Wire Wire Line
-	9250 6000 9500 6000
-Connection ~ 9250 5400
-Wire Wire Line
-	9250 5400 9500 5400
 Wire Wire Line
 	7250 5400 7250 5550
 Wire Wire Line
@@ -1163,12 +1334,8 @@ Wire Wire Line
 	9100 5550 9100 5400
 Connection ~ 9100 5400
 Wire Wire Line
-	9100 5400 9250 5400
-Wire Wire Line
 	9100 5850 9100 6000
 Connection ~ 9100 6000
-Wire Wire Line
-	9100 6000 9250 6000
 Wire Wire Line
 	9700 5550 9700 5400
 Connection ~ 9700 5400
@@ -1191,17 +1358,58 @@ Wire Wire Line
 	10300 6000 10700 6000
 Wire Notes Line width 39
 	6800 6450 11150 6450
-Wire Wire Line
-	9250 5300 9250 5400
 $Comp
-L power:+9V #PWR032
-U 1 1 5ECB7E38
-P 9250 5300
-F 0 "#PWR032" H 9250 5150 50  0001 C CNN
-F 1 "+9V" H 9265 5473 50  0000 C CNN
-F 2 "" H 9250 5300 50  0001 C CNN
-F 3 "" H 9250 5300 50  0001 C CNN
-	1    9250 5300
+L power:+VDC #PWR0101
+U 1 1 5ECB9998
+P 3600 5650
+F 0 "#PWR0101" H 3600 5550 50  0001 C CNN
+F 1 "+VDC" H 3600 5925 50  0000 C CNN
+F 2 "" H 3600 5650 50  0001 C CNN
+F 3 "" H 3600 5650 50  0001 C CNN
+	1    3600 5650
 	1    0    0    -1  
 $EndComp
+$Comp
+L power:-VDC #PWR0102
+U 1 1 5ECB9E7A
+P 3600 6950
+F 0 "#PWR0102" H 3600 6850 50  0001 C CNN
+F 1 "-VDC" H 3600 7225 50  0000 C CNN
+F 2 "" H 3600 6950 50  0001 C CNN
+F 3 "" H 3600 6950 50  0001 C CNN
+	1    3600 6950
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:-VDC #PWR0103
+U 1 1 5ECB9F64
+P 9300 6000
+F 0 "#PWR0103" H 9300 5900 50  0001 C CNN
+F 1 "-VDC" H 9300 6275 50  0000 C CNN
+F 2 "" H 9300 6000 50  0001 C CNN
+F 3 "" H 9300 6000 50  0001 C CNN
+	1    9300 6000
+	-1   0    0    1   
+$EndComp
+Connection ~ 9300 6000
+Wire Wire Line
+	9300 6000 9500 6000
+$Comp
+L power:+VDC #PWR0104
+U 1 1 5ECBA3A9
+P 9300 5400
+F 0 "#PWR0104" H 9300 5300 50  0001 C CNN
+F 1 "+VDC" H 9300 5675 50  0000 C CNN
+F 2 "" H 9300 5400 50  0001 C CNN
+F 3 "" H 9300 5400 50  0001 C CNN
+	1    9300 5400
+	1    0    0    -1  
+$EndComp
+Connection ~ 9300 5400
+Wire Wire Line
+	9300 5400 9500 5400
+Wire Wire Line
+	9100 5400 9300 5400
+Wire Wire Line
+	9100 6000 9300 6000
 $EndSCHEMATC

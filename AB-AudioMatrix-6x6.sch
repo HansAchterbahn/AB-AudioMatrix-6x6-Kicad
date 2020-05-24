@@ -6,13 +6,13 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 3
 Title "AB AudioMatrix 6x6"
-Date "2020-05-19"
+Date "2020-05-24"
 Rev "v3.4"
 Comp "AudioBürokrat"
-Comment1 "Created by HansAchterbahn"
-Comment2 "Licence: CC BY 4.0"
+Comment1 ""
+Comment2 "Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)"
 Comment3 "https://github.com/HansAchterbahn/AB-AudioMatrix-6x6"
-Comment4 ""
+Comment4 "Created by HansAchterbahn"
 $EndDescr
 $Sheet
 S 900  2900 1500 1000

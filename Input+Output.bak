@@ -508,7 +508,13 @@ P 5450 2550
 F 0 "J13" H 5500 3900 50  0000 R CNN
 F 1 "Conn_01x24" H 5500 3800 50  0000 R CNN
 F 2 "h8-Connectors:Wuerth-686124188622" H 5450 2550 50  0001 C CNN
-F 3 "~" H 5450 2550 50  0001 C CNN
+F 3 "https://www.we-online.com/catalog/datasheet/686124188622.pdf" H 5450 2550 50  0001 C CNN
+F 4 "732-686124188622CT-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "Wuerth" H 0   0   50  0001 C CNN "MF"
+F 6 "686124188622" H 0   0   50  0001 C CNN "MFN"
+F 7 "710-686124188622" H 0   0   50  0001 C CNN "Mouser"
+F 8 "—" H 0   0   50  0001 C CNN "RS-Online"
+F 9 "https://www.we-online.com/catalog/en/FPC_1_00_SMT_LIF_HORIZONTAL_TOP_CONTACT_6861xx188622" H 0   0   50  0001 C CNN "Infopage"
 	1    5450 2550
 	-1   0    0    -1  
 $EndComp
@@ -637,7 +643,13 @@ P 7350 2650
 F 0 "J14" H 7400 4000 50  0000 R CNN
 F 1 "Conn_01x24" H 7400 3900 50  0000 R CNN
 F 2 "h8-Connectors:Wuerth-686124188622" H 7350 2650 50  0001 C CNN
-F 3 "~" H 7350 2650 50  0001 C CNN
+F 3 "https://www.we-online.com/catalog/datasheet/686124188622.pdf" H 7350 2650 50  0001 C CNN
+F 4 "732-686124188622CT-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "Wuerth" H 0   0   50  0001 C CNN "MF"
+F 6 "686124188622" H 0   0   50  0001 C CNN "MFN"
+F 7 "710-686124188622" H 0   0   50  0001 C CNN "Mouser"
+F 8 "—" H 0   0   50  0001 C CNN "RS-Online"
+F 9 "https://www.we-online.com/catalog/en/FPC_1_00_SMT_LIF_HORIZONTAL_TOP_CONTACT_6861xx188622" H 0   0   50  0001 C CNN "Infopage"
 	1    7350 2650
 	1    0    0    1   
 $EndComp
@@ -766,7 +778,13 @@ P 8650 2550
 F 0 "J16" H 8700 3900 50  0000 R CNN
 F 1 "Conn_01x24" H 8700 3800 50  0000 R CNN
 F 2 "h8-Connectors:Wuerth-686124188622" H 8650 2550 50  0001 C CNN
-F 3 "~" H 8650 2550 50  0001 C CNN
+F 3 "https://www.we-online.com/catalog/datasheet/686124188622.pdf" H 8650 2550 50  0001 C CNN
+F 4 "732-686124188622CT-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "Wuerth" H 0   0   50  0001 C CNN "MF"
+F 6 "686124188622" H 0   0   50  0001 C CNN "MFN"
+F 7 "710-686124188622" H 0   0   50  0001 C CNN "Mouser"
+F 8 "—" H 0   0   50  0001 C CNN "RS-Online"
+F 9 "https://www.we-online.com/catalog/en/FPC_1_00_SMT_LIF_HORIZONTAL_TOP_CONTACT_6861xx188622" H 0   0   50  0001 C CNN "Infopage"
 	1    8650 2550
 	-1   0    0    -1  
 $EndComp
@@ -895,7 +913,13 @@ P 10550 2650
 F 0 "J17" H 10600 4000 50  0000 R CNN
 F 1 "Conn_01x24" H 10600 3900 50  0000 R CNN
 F 2 "h8-Connectors:Wuerth-686124188622" H 10550 2650 50  0001 C CNN
-F 3 "~" H 10550 2650 50  0001 C CNN
+F 3 "https://www.we-online.com/catalog/datasheet/686124188622.pdf" H 10550 2650 50  0001 C CNN
+F 4 "732-686124188622CT-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "Wuerth" H 0   0   50  0001 C CNN "MF"
+F 6 "686124188622" H 0   0   50  0001 C CNN "MFN"
+F 7 "710-686124188622" H 0   0   50  0001 C CNN "Mouser"
+F 8 "—" H 0   0   50  0001 C CNN "RS-Online"
+F 9 "https://www.we-online.com/catalog/en/FPC_1_00_SMT_LIF_HORIZONTAL_TOP_CONTACT_6861xx188622" H 0   0   50  0001 C CNN "Infopage"
 	1    10550 2650
 	1    0    0    1   
 $EndComp
@@ -1053,7 +1077,13 @@ P 1600 1550
 F 0 "R1" H 1650 1650 50  0000 L CNN
 F 1 "100k" H 1650 1550 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 1530 1550 50  0001 C CNN
-F 3 "~" H 1600 1550 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 1600 1550 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    1600 1550
 	1    0    0    -1  
 $EndComp
@@ -1067,7 +1097,13 @@ P 1800 1750
 F 0 "R7" H 1850 1800 50  0000 L CNN
 F 1 "100k" H 1850 1700 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 1730 1750 50  0001 C CNN
-F 3 "~" H 1800 1750 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 1800 1750 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    1800 1750
 	1    0    0    -1  
 $EndComp
@@ -1081,7 +1117,13 @@ P 1600 2650
 F 0 "R2" H 1650 2750 50  0000 L CNN
 F 1 "100k" H 1650 2650 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 1530 2650 50  0001 C CNN
-F 3 "~" H 1600 2650 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 1600 2650 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    1600 2650
 	1    0    0    -1  
 $EndComp
@@ -1095,7 +1137,13 @@ P 1800 2850
 F 0 "R8" H 1850 2900 50  0000 L CNN
 F 1 "100k" H 1850 2800 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 1730 2850 50  0001 C CNN
-F 3 "~" H 1800 2850 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 1800 2850 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    1800 2850
 	1    0    0    -1  
 $EndComp
@@ -1109,7 +1157,13 @@ P 1600 3750
 F 0 "R3" H 1650 3850 50  0000 L CNN
 F 1 "100k" H 1650 3750 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 1530 3750 50  0001 C CNN
-F 3 "~" H 1600 3750 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 1600 3750 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    1600 3750
 	1    0    0    -1  
 $EndComp
@@ -1123,7 +1177,13 @@ P 1800 3950
 F 0 "R9" H 1850 4050 50  0000 L CNN
 F 1 "100k" H 1850 3950 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 1730 3950 50  0001 C CNN
-F 3 "~" H 1800 3950 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 1800 3950 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    1800 3950
 	1    0    0    -1  
 $EndComp
@@ -1137,7 +1197,13 @@ P 1600 4850
 F 0 "R4" H 1650 4950 50  0000 L CNN
 F 1 "100k" H 1650 4850 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 1530 4850 50  0001 C CNN
-F 3 "~" H 1600 4850 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 1600 4850 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    1600 4850
 	1    0    0    -1  
 $EndComp
@@ -1151,7 +1217,13 @@ P 1800 5050
 F 0 "R10" H 1850 5100 50  0000 L CNN
 F 1 "100k" H 1850 5000 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 1730 5050 50  0001 C CNN
-F 3 "~" H 1800 5050 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 1800 5050 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    1800 5050
 	1    0    0    -1  
 $EndComp
@@ -1165,7 +1237,13 @@ P 1600 5950
 F 0 "R5" H 1650 6050 50  0000 L CNN
 F 1 "100k" H 1650 5950 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 1530 5950 50  0001 C CNN
-F 3 "~" H 1600 5950 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 1600 5950 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    1600 5950
 	1    0    0    -1  
 $EndComp
@@ -1179,7 +1257,13 @@ P 1800 6150
 F 0 "R11" H 1850 6200 50  0000 L CNN
 F 1 "100k" H 1850 6100 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 1730 6150 50  0001 C CNN
-F 3 "~" H 1800 6150 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 1800 6150 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    1800 6150
 	1    0    0    -1  
 $EndComp
@@ -1193,7 +1277,13 @@ P 1600 7050
 F 0 "R6" H 1650 7150 50  0000 L CNN
 F 1 "100k" H 1650 7050 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 1530 7050 50  0001 C CNN
-F 3 "~" H 1600 7050 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 1600 7050 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    1600 7050
 	1    0    0    -1  
 $EndComp
@@ -1207,7 +1297,13 @@ P 1800 7250
 F 0 "R12" H 1850 7300 50  0000 L CNN
 F 1 "100k" H 1850 7200 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 1730 7250 50  0001 C CNN
-F 3 "~" H 1800 7250 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 1800 7250 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    1800 7250
 	1    0    0    -1  
 $EndComp
@@ -1221,7 +1317,13 @@ P 3850 1550
 F 0 "R19" H 3800 1450 50  0000 R CNN
 F 1 "100k" H 3800 1550 50  0000 R CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 3780 1550 50  0001 C CNN
-F 3 "~" H 3850 1550 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 3850 1550 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    3850 1550
 	1    0    0    1   
 $EndComp
@@ -1232,7 +1334,13 @@ P 3650 1750
 F 0 "R13" H 3581 1704 50  0000 R CNN
 F 1 "100k" H 3581 1795 50  0000 R CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 3580 1750 50  0001 C CNN
-F 3 "~" H 3650 1750 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 3650 1750 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    3650 1750
 	1    0    0    1   
 $EndComp
@@ -1246,7 +1354,13 @@ P 3850 2650
 F 0 "R20" H 3800 2550 50  0000 R CNN
 F 1 "100k" H 3800 2650 50  0000 R CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 3780 2650 50  0001 C CNN
-F 3 "~" H 3850 2650 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 3850 2650 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    3850 2650
 	1    0    0    1   
 $EndComp
@@ -1260,7 +1374,13 @@ P 3650 2850
 F 0 "R14" H 3600 2800 50  0000 R CNN
 F 1 "100k" H 3600 2900 50  0000 R CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 3580 2850 50  0001 C CNN
-F 3 "~" H 3650 2850 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 3650 2850 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    3650 2850
 	1    0    0    1   
 $EndComp
@@ -1274,7 +1394,13 @@ P 3850 3750
 F 0 "R21" H 3800 3650 50  0000 R CNN
 F 1 "100k" H 3800 3750 50  0000 R CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 3780 3750 50  0001 C CNN
-F 3 "~" H 3850 3750 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 3850 3750 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    3850 3750
 	1    0    0    1   
 $EndComp
@@ -1288,7 +1414,13 @@ P 3650 3950
 F 0 "R15" H 3600 3900 50  0000 R CNN
 F 1 "100k" H 3600 4000 50  0000 R CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 3580 3950 50  0001 C CNN
-F 3 "~" H 3650 3950 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 3650 3950 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    3650 3950
 	1    0    0    1   
 $EndComp
@@ -1302,7 +1434,13 @@ P 3850 4850
 F 0 "R22" H 3800 4750 50  0000 R CNN
 F 1 "100k" H 3800 4850 50  0000 R CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 3780 4850 50  0001 C CNN
-F 3 "~" H 3850 4850 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 3850 4850 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    3850 4850
 	1    0    0    1   
 $EndComp
@@ -1316,7 +1454,13 @@ P 3650 5050
 F 0 "R16" H 3600 5000 50  0000 R CNN
 F 1 "100k" H 3600 5100 50  0000 R CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 3580 5050 50  0001 C CNN
-F 3 "~" H 3650 5050 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 3650 5050 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    3650 5050
 	1    0    0    1   
 $EndComp
@@ -1330,7 +1474,13 @@ P 3850 5950
 F 0 "R23" H 3800 5850 50  0000 R CNN
 F 1 "100k" H 3800 5950 50  0000 R CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 3780 5950 50  0001 C CNN
-F 3 "~" H 3850 5950 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 3850 5950 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    3850 5950
 	1    0    0    1   
 $EndComp
@@ -1344,7 +1494,13 @@ P 3650 6150
 F 0 "R17" H 3600 6100 50  0000 R CNN
 F 1 "100k" H 3600 6200 50  0000 R CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 3580 6150 50  0001 C CNN
-F 3 "~" H 3650 6150 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 3650 6150 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    3650 6150
 	1    0    0    1   
 $EndComp
@@ -1358,7 +1514,13 @@ P 3650 7250
 F 0 "R18" H 3600 7200 50  0000 R CNN
 F 1 "100k" H 3600 7300 50  0000 R CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 3580 7250 50  0001 C CNN
-F 3 "~" H 3650 7250 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 3650 7250 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    3650 7250
 	1    0    0    1   
 $EndComp
@@ -1372,7 +1534,13 @@ P 3850 7050
 F 0 "R24" H 3800 6950 50  0000 R CNN
 F 1 "100k" H 3800 7050 50  0000 R CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" V 3780 7050 50  0001 C CNN
-F 3 "~" H 3850 7050 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/427/crcwce3-1762584.pdf" H 3850 7050 50  0001 C CNN
+F 4 "541-3950-1-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "—" H 0   0   50  0001 C CNN "Infopage"
+F 6 "Vishay" H 0   0   50  0001 C CNN "MF"
+F 7 "CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "MFN"
+F 8 "71-CRCW0603100KFKEAC" H 0   0   50  0001 C CNN "Mouser"
+F 9 "820-6745" H 0   0   50  0001 C CNN "RS-Online"
 	1    3850 7050
 	1    0    0    1   
 $EndComp
@@ -1703,7 +1871,13 @@ P 1100 1650
 F 0 "J1" H 1000 2100 50  0000 L CNN
 F 1 "Switchcraft-35RAPC4BH3" H 1000 2000 50  0000 L CNN
 F 2 "h8-Connectors:Switchcraft-35RAPC4BH3" H 1000 2100 50  0001 C CNN
-F 3 "" H 1000 2100 50  0001 C CNN
+F 3 "http://www.switchcraft.com/Drawings/35rapc__h3_cd.pdf" H 1000 2100 50  0001 C CNN
+F 4 "SC1464-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "Switchcraft" H 0   0   50  0001 C CNN "MF"
+F 6 "35RAPC4BH3" H 0   0   50  0001 C CNN "MFN"
+F 7 "502-35RAPC4BH3" H 0   0   50  0001 C CNN "Mouser"
+F 8 "35RAPC4BH3" H 0   0   50  0001 C CNN "RS-Online"
+F 9 "http://www.switchcraft.com/ProductSummary.aspx?Parent=425" H 0   0   50  0001 C CNN "Infopage"
 	1    1100 1650
 	1    0    0    -1  
 $EndComp
@@ -1714,7 +1888,13 @@ P 1100 2750
 F 0 "J2" H 1000 3200 50  0000 L CNN
 F 1 "Switchcraft-35RAPC4BH3" H 1000 3100 50  0000 L CNN
 F 2 "h8-Connectors:Switchcraft-35RAPC4BH3" H 1000 3200 50  0001 C CNN
-F 3 "" H 1000 3200 50  0001 C CNN
+F 3 "http://www.switchcraft.com/Drawings/35rapc__h3_cd.pdf" H 1000 3200 50  0001 C CNN
+F 4 "SC1464-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "Switchcraft" H 0   0   50  0001 C CNN "MF"
+F 6 "35RAPC4BH3" H 0   0   50  0001 C CNN "MFN"
+F 7 "502-35RAPC4BH3" H 0   0   50  0001 C CNN "Mouser"
+F 8 "35RAPC4BH3" H 0   0   50  0001 C CNN "RS-Online"
+F 9 "http://www.switchcraft.com/ProductSummary.aspx?Parent=425" H 0   0   50  0001 C CNN "Infopage"
 	1    1100 2750
 	1    0    0    -1  
 $EndComp
@@ -1725,7 +1905,13 @@ P 1100 3850
 F 0 "J3" H 1000 4300 50  0000 L CNN
 F 1 "Switchcraft-35RAPC4BH3" H 1000 4200 50  0000 L CNN
 F 2 "h8-Connectors:Switchcraft-35RAPC4BH3" H 1000 4300 50  0001 C CNN
-F 3 "" H 1000 4300 50  0001 C CNN
+F 3 "http://www.switchcraft.com/Drawings/35rapc__h3_cd.pdf" H 1000 4300 50  0001 C CNN
+F 4 "SC1464-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "Switchcraft" H 0   0   50  0001 C CNN "MF"
+F 6 "35RAPC4BH3" H 0   0   50  0001 C CNN "MFN"
+F 7 "502-35RAPC4BH3" H 0   0   50  0001 C CNN "Mouser"
+F 8 "35RAPC4BH3" H 0   0   50  0001 C CNN "RS-Online"
+F 9 "http://www.switchcraft.com/ProductSummary.aspx?Parent=425" H 0   0   50  0001 C CNN "Infopage"
 	1    1100 3850
 	1    0    0    -1  
 $EndComp
@@ -1736,7 +1922,13 @@ P 1100 4950
 F 0 "J4" H 1000 5400 50  0000 L CNN
 F 1 "Switchcraft-35RAPC4BH3" H 1000 5300 50  0000 L CNN
 F 2 "h8-Connectors:Switchcraft-35RAPC4BH3" H 1000 5400 50  0001 C CNN
-F 3 "" H 1000 5400 50  0001 C CNN
+F 3 "http://www.switchcraft.com/Drawings/35rapc__h3_cd.pdf" H 1000 5400 50  0001 C CNN
+F 4 "SC1464-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "Switchcraft" H 0   0   50  0001 C CNN "MF"
+F 6 "35RAPC4BH3" H 0   0   50  0001 C CNN "MFN"
+F 7 "502-35RAPC4BH3" H 0   0   50  0001 C CNN "Mouser"
+F 8 "35RAPC4BH3" H 0   0   50  0001 C CNN "RS-Online"
+F 9 "http://www.switchcraft.com/ProductSummary.aspx?Parent=425" H 0   0   50  0001 C CNN "Infopage"
 	1    1100 4950
 	1    0    0    -1  
 $EndComp
@@ -1747,7 +1939,13 @@ P 1100 6050
 F 0 "J5" H 1000 6500 50  0000 L CNN
 F 1 "Switchcraft-35RAPC4BH3" H 1000 6400 50  0000 L CNN
 F 2 "h8-Connectors:Switchcraft-35RAPC4BH3" H 1000 6500 50  0001 C CNN
-F 3 "" H 1000 6500 50  0001 C CNN
+F 3 "http://www.switchcraft.com/Drawings/35rapc__h3_cd.pdf" H 1000 6500 50  0001 C CNN
+F 4 "SC1464-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "Switchcraft" H 0   0   50  0001 C CNN "MF"
+F 6 "35RAPC4BH3" H 0   0   50  0001 C CNN "MFN"
+F 7 "502-35RAPC4BH3" H 0   0   50  0001 C CNN "Mouser"
+F 8 "35RAPC4BH3" H 0   0   50  0001 C CNN "RS-Online"
+F 9 "http://www.switchcraft.com/ProductSummary.aspx?Parent=425" H 0   0   50  0001 C CNN "Infopage"
 	1    1100 6050
 	1    0    0    -1  
 $EndComp
@@ -1758,7 +1956,13 @@ P 1100 7150
 F 0 "J6" H 1000 7600 50  0000 L CNN
 F 1 "Switchcraft-35RAPC4BH3" H 1000 7500 50  0000 L CNN
 F 2 "h8-Connectors:Switchcraft-35RAPC4BH3" H 1000 7600 50  0001 C CNN
-F 3 "" H 1000 7600 50  0001 C CNN
+F 3 "http://www.switchcraft.com/Drawings/35rapc__h3_cd.pdf" H 1000 7600 50  0001 C CNN
+F 4 "SC1464-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "Switchcraft" H 0   0   50  0001 C CNN "MF"
+F 6 "35RAPC4BH3" H 0   0   50  0001 C CNN "MFN"
+F 7 "502-35RAPC4BH3" H 0   0   50  0001 C CNN "Mouser"
+F 8 "35RAPC4BH3" H 0   0   50  0001 C CNN "RS-Online"
+F 9 "http://www.switchcraft.com/ProductSummary.aspx?Parent=425" H 0   0   50  0001 C CNN "Infopage"
 	1    1100 7150
 	1    0    0    -1  
 $EndComp
@@ -1769,7 +1973,13 @@ P 4350 7150
 F 0 "J12" H 4250 7600 50  0000 L CNN
 F 1 "Switchcraft-35RAPC4BH3" H 4250 7500 50  0000 L CNN
 F 2 "h8-Connectors:Switchcraft-35RAPC4BH3" H 4250 7600 50  0001 C CNN
-F 3 "" H 4250 7600 50  0001 C CNN
+F 3 "http://www.switchcraft.com/Drawings/35rapc__h3_cd.pdf" H 4250 7600 50  0001 C CNN
+F 4 "SC1464-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "Switchcraft" H 0   0   50  0001 C CNN "MF"
+F 6 "35RAPC4BH3" H 0   0   50  0001 C CNN "MFN"
+F 7 "502-35RAPC4BH3" H 0   0   50  0001 C CNN "Mouser"
+F 8 "35RAPC4BH3" H 0   0   50  0001 C CNN "RS-Online"
+F 9 "http://www.switchcraft.com/ProductSummary.aspx?Parent=425" H 0   0   50  0001 C CNN "Infopage"
 	1    4350 7150
 	-1   0    0    -1  
 $EndComp
@@ -1780,7 +1990,13 @@ P 4350 6050
 F 0 "J11" H 4250 6500 50  0000 L CNN
 F 1 "Switchcraft-35RAPC4BH3" H 4250 6400 50  0000 L CNN
 F 2 "h8-Connectors:Switchcraft-35RAPC4BH3" H 4250 6500 50  0001 C CNN
-F 3 "" H 4250 6500 50  0001 C CNN
+F 3 "http://www.switchcraft.com/Drawings/35rapc__h3_cd.pdf" H 4250 6500 50  0001 C CNN
+F 4 "SC1464-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "Switchcraft" H 0   0   50  0001 C CNN "MF"
+F 6 "35RAPC4BH3" H 0   0   50  0001 C CNN "MFN"
+F 7 "502-35RAPC4BH3" H 0   0   50  0001 C CNN "Mouser"
+F 8 "35RAPC4BH3" H 0   0   50  0001 C CNN "RS-Online"
+F 9 "http://www.switchcraft.com/ProductSummary.aspx?Parent=425" H 0   0   50  0001 C CNN "Infopage"
 	1    4350 6050
 	-1   0    0    -1  
 $EndComp
@@ -1791,7 +2007,13 @@ P 4350 4950
 F 0 "J10" H 4250 5400 50  0000 L CNN
 F 1 "Switchcraft-35RAPC4BH3" H 4250 5300 50  0000 L CNN
 F 2 "h8-Connectors:Switchcraft-35RAPC4BH3" H 4250 5400 50  0001 C CNN
-F 3 "" H 4250 5400 50  0001 C CNN
+F 3 "http://www.switchcraft.com/Drawings/35rapc__h3_cd.pdf" H 4250 5400 50  0001 C CNN
+F 4 "SC1464-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "Switchcraft" H 0   0   50  0001 C CNN "MF"
+F 6 "35RAPC4BH3" H 0   0   50  0001 C CNN "MFN"
+F 7 "502-35RAPC4BH3" H 0   0   50  0001 C CNN "Mouser"
+F 8 "35RAPC4BH3" H 0   0   50  0001 C CNN "RS-Online"
+F 9 "http://www.switchcraft.com/ProductSummary.aspx?Parent=425" H 0   0   50  0001 C CNN "Infopage"
 	1    4350 4950
 	-1   0    0    -1  
 $EndComp
@@ -1802,7 +2024,13 @@ P 4350 3850
 F 0 "J9" H 4250 4300 50  0000 L CNN
 F 1 "Switchcraft-35RAPC4BH3" H 4250 4200 50  0000 L CNN
 F 2 "h8-Connectors:Switchcraft-35RAPC4BH3" H 4250 4300 50  0001 C CNN
-F 3 "" H 4250 4300 50  0001 C CNN
+F 3 "http://www.switchcraft.com/Drawings/35rapc__h3_cd.pdf" H 4250 4300 50  0001 C CNN
+F 4 "SC1464-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "Switchcraft" H 0   0   50  0001 C CNN "MF"
+F 6 "35RAPC4BH3" H 0   0   50  0001 C CNN "MFN"
+F 7 "502-35RAPC4BH3" H 0   0   50  0001 C CNN "Mouser"
+F 8 "35RAPC4BH3" H 0   0   50  0001 C CNN "RS-Online"
+F 9 "http://www.switchcraft.com/ProductSummary.aspx?Parent=425" H 0   0   50  0001 C CNN "Infopage"
 	1    4350 3850
 	-1   0    0    -1  
 $EndComp
@@ -1813,7 +2041,13 @@ P 4350 2750
 F 0 "J8" H 4250 3200 50  0000 L CNN
 F 1 "Switchcraft-35RAPC4BH3" H 4250 3100 50  0000 L CNN
 F 2 "h8-Connectors:Switchcraft-35RAPC4BH3" H 4250 3200 50  0001 C CNN
-F 3 "" H 4250 3200 50  0001 C CNN
+F 3 "http://www.switchcraft.com/Drawings/35rapc__h3_cd.pdf" H 4250 3200 50  0001 C CNN
+F 4 "SC1464-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "Switchcraft" H 0   0   50  0001 C CNN "MF"
+F 6 "35RAPC4BH3" H 0   0   50  0001 C CNN "MFN"
+F 7 "502-35RAPC4BH3" H 0   0   50  0001 C CNN "Mouser"
+F 8 "35RAPC4BH3" H 0   0   50  0001 C CNN "RS-Online"
+F 9 "http://www.switchcraft.com/ProductSummary.aspx?Parent=425" H 0   0   50  0001 C CNN "Infopage"
 	1    4350 2750
 	-1   0    0    -1  
 $EndComp
@@ -1824,7 +2058,13 @@ P 4350 1650
 F 0 "J7" H 4250 2100 50  0000 L CNN
 F 1 "Switchcraft-35RAPC4BH3" H 4250 2000 50  0000 L CNN
 F 2 "h8-Connectors:Switchcraft-35RAPC4BH3" H 4250 2100 50  0001 C CNN
-F 3 "" H 4250 2100 50  0001 C CNN
+F 3 "http://www.switchcraft.com/Drawings/35rapc__h3_cd.pdf" H 4250 2100 50  0001 C CNN
+F 4 "SC1464-ND" H 0   0   50  0001 C CNN "Digi-Key"
+F 5 "Switchcraft" H 0   0   50  0001 C CNN "MF"
+F 6 "35RAPC4BH3" H 0   0   50  0001 C CNN "MFN"
+F 7 "502-35RAPC4BH3" H 0   0   50  0001 C CNN "Mouser"
+F 8 "35RAPC4BH3" H 0   0   50  0001 C CNN "RS-Online"
+F 9 "http://www.switchcraft.com/ProductSummary.aspx?Parent=425" H 0   0   50  0001 C CNN "Infopage"
 	1    4350 1650
 	-1   0    0    -1  
 $EndComp
