@@ -18,7 +18,7 @@ $Sheet
 S 900  2900 1500 1000
 U 5EC982F4
 F0 "Switches and OPAs" 50
-F1 "S-Switches+OPAs.sch" 50
+F1 "sch/S-Switches+OPAs.sch" 50
 $EndSheet
 Text Notes 4100 1200 0    276  ~ 55
 AB AudioMatrix 6x6
@@ -40,6 +40,6 @@ $Sheet
 S 900  4650 1500 1000
 U 5EC982D9
 F0 "Input and Output" 50
-F1 "S-Input+Output.sch" 50
+F1 "sch/S-Input+Output.sch" 50
 $EndSheet
 $EndSCHEMATC
