@@ -9,7 +9,8 @@ Active audio matrix (6×6), which can map 6 input channels to 6 output channels.
 | File / Folder                 | Abbreviation     | Description                                                                             |
 | ----------------------------- | ---------------- | --------------------------------------------------------------------------------------- |
 | /bom/                         | Bill of Material | Files with needed components and corresponding order number from different distributers |
-| /doc/                         | Documentation    | Files which are needed in README.md to document the repository                          |
+| /doc/                         | Documentation    | Files needed in README.md to document the repository                                    |
+| /gerber/                      | Gerber files     | Files exported from Board Layout to order the PCBs from a manufacturer                  |
 | /sch/                         | Schematic        | Additional schematic files                                                              |
 | /AB-AudioMatrix-6x6.pro       | —                | Kicad Project File                                                                      |
 | /AB-AudioMatrix-6x6.sch       | —                | Root schematic files                                                                    |
