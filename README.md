@@ -4,6 +4,19 @@ Active audio matrix (6x6), which can map 6 input channels to 6 output channels. 
 
 *Fork me and have fun!*
 
+## Content and Structure
+
+| File / Folder                | Abbreviation     | Description                                                                             |
+| ---------------------------- | ---------------- | --------------------------------------------------------------------------------------- |
+| bom                          | Bill of Material | Files with needed components and corresponding order number from different distributers |
+| doc                          | Documentation    | Files witch are needed in README.md to document the repository                          |
+| AB-AudioMatrix-6x6.pro       | —                | Kicad Project File                                                                      |
+| AB-AudioMatrix-6x6.sch       | —                | Schematic → Sheet 1: Root / Overview Page                                               |
+| Switches+OPAs.sch            | —                | Schematic → Sheet 2: Switches and Opas                                                  |
+| Input+Output.sch             | —                | Schematic → Sheet 3: Audio Input and Output                                             |
+| AB-AudioMatrix-6x6.kicad_pcb | —                | PCB / Board Layout File                                                                 |
+|                              |                  |                                                                                         |
+
 
 ## Pictures
 
@@ -12,28 +25,36 @@ Comming soon ...
 
 ## 3D View
 
-![Rear view ](doku/3d-FrontView.png)
-Front view
+![Top view](doc/3d-TopView.png)
+Top view
 
-![](doku/3d-RearView.png)
+<!--
+![Rear view ](doc/3d-FrontView.png)
+Front view
+-->
+
+![Rear view](doc/3d-RearView.png)
 Rear view
+
+![Bottom view](doc/3d-BottomView.png)
+Bottom view
 
 
 ## Schematic
 
-![Page 1: Master](doku/Schematic-1-Master.png)
-Page 1: Master
+![Sheet 1: Root / Overview Page](doc/Schematic-1-Master.png)
+Sheet 1: Root / Overview Page
 
-![](doku/Schematic-2-SwitchesOpas.png)
-Page 2: Switches and OPAs
+![Sheet 2: Switches and OPAs](doc/Schematic-2-SwitchesOpas.png)
+Sheet 2: Switches and OPAs
 
-![](doku/Schematic-3-InputOutput.png)
-Page 3: Audio Input and Output
+![Sheet 3: Audio Input and Output](doc/Schematic-3-InputOutput.png)
+Sheet 3: Audio Input and Output
 
-## Board
+## Board Layout
 
-![Board](doku/Board.png)
-Board
+![PCB / Board layout](doc/Board.png)
+PCB / Board layout
 
 
 ## Licence
