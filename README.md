@@ -23,8 +23,8 @@ Active audio matrix (6×6), which can map 6 input channels to 6 output channels.
 
 | Mode       | +             | —             | ⊥   | Jumper JP1 | U7, R25, R26  | Info                                                              |
 | ---------- | ------------- | ------------- | --- | ---------- | ------------- | ----------------------------------------------------------------- |
-| Symmetric  | +5 to +30 V  | 0 V           | --- | Closed     | not necessary | Highly recommended for good Sound and clearly separated channels  |
-| Asymmetric | +2.5 to +15 V | -2.5 to -15 V | 0V  | Open       | necessary     | Possible, but not recommended; Channels are not clearly separated |
+| Symmetric  | +2.5 to +15 V | -2.5 to -15 V | 0V  | Open       | not necessary | Highly recommended for good Sound and clearly separated channels  |
+| Asymmetric | +5 to +30 V   | 0 V           | --- | Closed     | necessary     | Possible, but not recommended; Channels are not clearly separated |
 
 ## Pictures
 
