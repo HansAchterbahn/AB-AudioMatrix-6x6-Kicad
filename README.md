@@ -8,7 +8,9 @@ Active audio matrix (6×6), which can map 6 input channels to 6 output channels.
 
 | File / Folder                 | Abbreviation     | Description                                                                             |
 | ----------------------------- | ---------------- | --------------------------------------------------------------------------------------- |
-| /bom/                         | Bill of Material | Files with needed components and corresponding order number from different distributers |
+| /3d/                          | 3D modells       | Files to work with in a 3D CAD program                                                  |
+| /bom/                         | Bill of Material | Files with needed components and corresponding order number from different distributors |
+| /case/                        | Case for PCB     | Files with an example case for the PCBs                                                 |
 | /doc/                         | Documentation    | Files needed in README.md to document the repository                                    |
 | /gerber/                      | Gerber files     | Files exported from Board Layout to order the PCBs from a manufacturer                  |
 | /sch/                         | Schematic        | Additional schematic files                                                              |
